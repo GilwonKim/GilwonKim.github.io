@@ -1,4 +1,4 @@
-# Jekyll configuration
+# Gilwon Kim Blog
 #markdown: redcarpet
 #highlighter: pygments
 markdown: kramdown
@@ -7,10 +7,10 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Examining the first blog'
+description: "newbie for ROS"
 
-short_url: 'jekyller.github.io/jasper/'
+short_url: 'GilwonKim.github.io'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
