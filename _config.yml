@@ -11,7 +11,7 @@ name: 'Examining the first blog'
 description: "newbie for ROS"
 
 short_url: 'GilwonKim.github.io'
-google_analytics: UA-69281367-1
+google_analytics: UA-92029401-2
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl:
